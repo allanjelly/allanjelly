@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I work as a freelance expert/project manager/team manager on ERP projects.
+I have 15+ years of experience managing teams in complex real-world environments:
+   - SAP (ABAP)
+   - Java
+   - .Net
+   - C++
+   - Python, GOlang
+Sometimes all at the same time.
+
+I'm always looking for new challenges and opportunities.
 <!--
 **allanjelly/allanjelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
